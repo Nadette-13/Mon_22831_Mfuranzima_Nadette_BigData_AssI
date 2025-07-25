@@ -48,20 +48,18 @@ Screenshots of these visualizations are included in the `/images` folder.
 ## Visualizations
 
 ### Rides by Hour  
-![Rides by Hour](images/rides_by_hour.png)
+
 
 ### Rides by Weekday  
-![Rides by Weekday](images/rides_by_weekday.png)
+
 
 ### Peak vs Off-Peak Rides  
-![Peak vs Off-Peak](images/peak_offpeak.png)
 
 ---
 
 ## Dataset
 
 Cleaned dataset used for analysis:  
-[data/uber_cleaned.csv](data/uber_cleaned.csv)
 
 ---
 
