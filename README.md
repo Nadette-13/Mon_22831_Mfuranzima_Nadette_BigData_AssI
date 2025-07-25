@@ -48,18 +48,32 @@ Screenshots of these visualizations are included in the `/images` folder.
 ## Visualizations
 
 ### Rides by Hour  
-
+![Rides by Hour](number_of_rides_by_hour)
 
 ### Rides by Weekday  
-
+![Rides by Weekday](rides_by_weekday)
 
 ### Peak vs Off-Peak Rides  
+![Peak vs Off-Peak](peak_Offpeak)
 
 ---
+## Fare Amount Distribution (Histogram)
+
+This histogram shows how fare amounts are distributed across the dataset. It helps identify pricing trends, outliers, and common fare ranges.
+
+![Fare Amount Distribution](Fare_Amount_Distribution(Histogram))
+## Fare Amount Distribution with Mean and Mode
+
+This chart visualizes how Uber fares are distributed across the dataset and highlights the statistical mean and mode, which help identify central pricing trends.
+
+![Fare Amount - Mean and Mode](e2025-07-25 at 11.20.52_fd47fdac)
+
+
 
 ## Dataset
 
 Cleaned dataset used for analysis:  
+[data/uber_cleaned.csv](uber_cleaned.csv)
 
 ---
 
